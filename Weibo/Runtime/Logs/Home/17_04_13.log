@@ -1,0 +1,12 @@
+[ 2017-04-13T18:21:54+08:00 ] ::1 /ThinkPHP-test/index.php/Home/User/model
+ERR: 1054:Unknown column 'emial' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( `user` = '蜡笔小新' OR `emial` = '蜡笔小新' ) 
+
+[ 2017-04-13T18:22:17+08:00 ] ::1 /ThinkPHP-test/index.php/Home/User/model
+ERR: 1054:Unknown column 'emial' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( `user` = '娜美' OR `emial` = '娜美' ) 
+
+[ 2017-04-13T18:22:48+08:00 ] ::1 /ThinkPHP-test/index.php/Home/User/model
+ERR: 1054:Unknown column 'emial' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( (`user` = '蜡笔小新') AND (`emial` = '蜡笔小新') ) 
+

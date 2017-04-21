@@ -1,0 +1,6 @@
+[ 2017-04-12T11:54:00+08:00 ] ::1 /ThinkPHP-test/index.php/Home/User/model
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-04-12T11:54:08+08:00 ] ::1 /ThinkPHP-test/index.php/Home/User/model
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+

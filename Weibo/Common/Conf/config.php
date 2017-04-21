@@ -16,6 +16,7 @@ return array(
 	//'VAR_CONTROLLER'=>'cc',
 	//'VAR_ACTION'=>'aa',
 	
+	'SHOW_PAGE_TRACE'=> true,
 	
 	//mysql全局定义
 	'DB_TYPE'=>'mysql',
